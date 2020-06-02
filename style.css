@@ -1,0 +1,110 @@
+:root {
+  --visited-color: rgb(148, 8, 8);
+}
+
+/* Rangpur */
+
+#path0:hover,
+#path1:hover,
+#path2:hover,
+#path3:hover,
+#path4:hover,
+#path5:hover,
+#path6:hover,
+#path7:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
+
+/* Rajshahi */
+
+#path9:hover,
+#path10:hover,
+#path11:hover,
+#path12:hover,
+#path13:hover,
+#path14:hover,
+#path15:hover,
+#path16:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
+
+/* Khulna */
+
+#path17:hover,
+#path18:hover,
+#path19:hover,
+#path20:hover,
+#path21:hover,
+#path22:hover,
+#path23:hover,
+#path24:hover,
+#path25:hover,
+#path26:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
+
+/* Barishal*/
+#path29:hover,
+#path30:hover,
+#path31:hover,
+#path32:hover,
+#path33:hover,
+#path37:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
+
+/* Mymensingh*/
+#path66:hover,
+#path66a:hover,
+#path67:hover,
+#path68:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
+
+/* Sylhet */
+#path62:hover,
+#path63:hover,
+#path64:hover,
+#path65:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
+
+/* Dhaka */
+#path69:hover,
+#path70:hover,
+#path71:hover,
+#path72:hover,
+#path73:hover,
+#path74:hover,
+#path75:hover,
+#path76:hover,
+#path77:hover,
+#path78:hover,
+#path79:hover,
+#path83:hover,
+#path84:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
+
+/* Chottogram */
+#path41:hover,
+#path43:hover,
+#path44:hover,
+#path45:hover,
+#path46:hover,
+#path51:hover,
+#path54:hover,
+#path55:hover,
+#path56:hover,
+#path57:hover,
+#path59:hover {
+  fill: var(--visited-color) !important;
+  cursor: pointer;
+}
